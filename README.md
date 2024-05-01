@@ -29,7 +29,7 @@
 ![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 <br>
 # 📊 Stats:
-![](https://github-readme-stats.vercel.app/api?username={VLNZCode}&theme=blue-green)
-![](https://github-readme-stats.vercel.app/api?username={VLNZCode}&theme=blue-green)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username={VLNZCode}&theme=blue-green)
-![](https://starchart.cc/{VLNZCode}/{repo}.svg)
+![](https://github-readme-stats.vercel.app/api?username={JohelValenzuela}&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api?username={JohelValenzuela}&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username={JohelValenzuela}&theme=blue-green)
+![](https://starchart.cc/{JohelValenzuela}/{repo}.svg)
