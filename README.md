@@ -30,6 +30,6 @@
 <br>
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JohelValenzuela&theme=blue-green)
-![](https://github-readme-stats.vercel.app/api?username={JohelValenzuela}&theme=blue-green)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username={JohelValenzuela}&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api?username=JohelValenzuela&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JohelValenzuela&theme=blue-green)
 ![](https://starchart.cc/{JohelValenzuela}/{repo}.svg)
